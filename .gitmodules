@@ -1,3 +1,3 @@
 [submodule "timezone"]
 	path = timezone
-	url = ./code_files/timezone
+	url = https://github.com/SadafFatin/timezone.git
